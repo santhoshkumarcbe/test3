@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@200&display=swap');
+
+body{
+    font-family: 'Anek Devanagari', sans-serif;
+}
+
+a{
+    text-decoration: none;   
+    padding: 0 10px; 
+    color: #28282B;
+}
